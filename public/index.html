@@ -12,6 +12,11 @@
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/toth_mini.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>TOTH</title>
+    <script>
+      window.loadPromise = new Promise(function(resolve) {
+        window.addEventListener('load', resolve);
+      });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
