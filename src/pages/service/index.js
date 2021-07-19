@@ -38,11 +38,14 @@ export default function service() {
           <Heading mb={4} as="h1" size="md">
             ¿Que Ofrecemos?
           </Heading>
-          <Image
-            mb={4}
-            src="https://www.webpapillon.com/wp-content/uploads/servicios-ofrecidos-web-papillon-1200x800-1.png"
-            alt="Servicios"
-          />
+          <Center>
+            <Image
+              mb={4}
+              src="https://www.celempresas.com/wp-content/themes/celtheme/img/xservices-bg.jpg.pagespeed.ic.Lg-qssfHui.webp"
+              alt="Servicios"
+            />
+          </Center>
+
           <p>
             A partir de su Visión, Misión y Objetivos claros de negocio,
             Asesores en Dirección Empresarial y Corporativa S.A. de C.V., ofrece
