@@ -7,7 +7,7 @@ export default function about() {
       <div className="content">
         <div className="content--inner">
           <Heading mb={4} as="h1" size="md">
-            ¿Quienes somos?
+            ¿Quiénes somos?
           </Heading>
           <Image
             mb={4}
@@ -127,11 +127,11 @@ export default function about() {
           </Center>
           <p>
             <span className="text-bold">Recurso Humano,</span> Consultores con
-            gran formación y experiencia dentro del la Administración Pública
+            gran formación y experiencia dentro de la Administración Pública
             Federal y Local, así como en el sector privado, lo que permite
             comprender al cliente y buscar las soluciones más rápidas y
             eficaces, comprometidos con la calidad, buscando la satisfacción del
-            cliente a todos lo niveles.
+            cliente a todos los niveles.
           </p>
         </div>
       </div>

@@ -43,8 +43,8 @@ export default function Footer() {
       </div>
       <div className="footer-content flex">
         <svg
-          width="130"
-          height="47.5"
+          width="170"
+          height="87.5"
           viewBox="0 0 391 143"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"

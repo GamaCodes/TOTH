@@ -10,7 +10,6 @@ import {
   ListItem,
   ListIcon,
   Image,
-  Avatar,
   Center,
   Heading,
 } from '@chakra-ui/react';
@@ -36,7 +35,7 @@ export default function service() {
       <div className="content">
         <div className="content--inner">
           <Heading mb={4} as="h1" size="md">
-            ¿Que Ofrecemos?
+            ¿Qué ofrecemos?
           </Heading>
           <Center>
             <Image
