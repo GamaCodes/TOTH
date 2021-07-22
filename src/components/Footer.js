@@ -210,7 +210,7 @@ export default function Footer() {
             fill="#333333"
           />
         </svg>
-
+        <p>asesores@direccionempresarialtoth.com</p>
         <p>Asesores | 2021 | TOTH</p>
       </div>
     </footer>
